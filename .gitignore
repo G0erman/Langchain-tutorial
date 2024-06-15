@@ -1,3 +1,4 @@
 .env
 .idea/*
 data/Caperucita-Roja.pdf
+__pycache__/*
